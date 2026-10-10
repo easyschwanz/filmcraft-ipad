@@ -1,0 +1,12 @@
+{
+  "name": "FilmCraft",
+  "short_name": "FilmCraft",
+  "description": "Open-source video editor",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1b1c1f",
+  "theme_color": "#1b1c1f",
+  "icons": [{ "src": "favicon.png", "sizes": "any", "type": "image/png" }]
+}
